@@ -1,6 +1,6 @@
 Husband Calling Backend Design Doc
 
-**Organizational Structure:
+Organizational Structure:
 Project/
   app.py
   extentensions.py
@@ -14,6 +14,6 @@ Project/
 
   routes/
     contestants.py
-    husband_call.py**
+    husband_call.py
     
     
